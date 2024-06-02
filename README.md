@@ -104,3 +104,4 @@ _For more detailes regarding TMDB API calls, please refer to the [Documentation]
 See the [open issues](https://github.com/2604pr/movieflix/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+# Movieflix
