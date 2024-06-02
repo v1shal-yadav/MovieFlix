@@ -14,7 +14,7 @@
   <p align="center">
     Movieflix - AI Powered Movie App [React.js, Material UI, Alan AI]
     <br />
-    <a href="https://github.com/2604pr/movieflix"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/v1shal-yadav/MovieFlix"><strong>Explore the project »</strong></a>
     <br />
     <br />
     <a href="https://movieflixe.netlify.app/">View Demo Site</a>
