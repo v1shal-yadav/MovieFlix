@@ -5,11 +5,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/2604pr/movieflix">
+  <a href="https://github.com/v1shal-yadav/MovieFlix">
     <img src="https://fontmeme.com/permalink/230517/1c1670dd6284f8d01001e1c74b52aae3.png" alt="movieflix" width="252" height="85">
   </a>
 
-  <h2 align="center">Movieflix - Pranshu Patel</h2>
+  <h2 align="center">Movieflix - Vishal Yadav</h2>
 
   <p align="center">
     Movieflix - AI Powered Movie App [React.js, Material UI, Alan AI]
@@ -19,9 +19,9 @@
     <br />
     <a href="https://movieflixe.netlify.app/">View Demo Site</a>
     ·
-    <a href="https://github.com/2604pr/movieflix/issues">Report Bug</a>
+    <a href="https://github.com/v1shal-yadav/MovieFlix/issues">Report Bug</a>
     ·
-    <a href="https://github.com/2604pr/movieflix/issues">Request Feature</a>
+    <a href="https://github.com/v1shal-yadav/MovieFlix/issues">Request Feature</a>
   </p>
 </div>
 
