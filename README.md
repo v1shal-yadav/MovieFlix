@@ -86,7 +86,7 @@ Setup:
    ```
 3. Install NPM packages:
    ```sh
-   npm install
+   npm install 
    ```
 4. Create your `.env` file as it is instructed in `.env.example`.
 5. Enter your TMDB API key in your `.env`.
